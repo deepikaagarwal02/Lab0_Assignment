@@ -1,5 +1,6 @@
 ---
 title: Quarto Computations
+author: "Deepika Agarwal"
 echo: false
 fig-height: 3.5
 fig-width: 6
