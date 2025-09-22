@@ -1,6 +1,10 @@
+Link to GitHub Repo: <https://github.com/deepikaagarwal02/Lab0_Assignment>
 ---
 title: Quarto Computations
 author: "Deepika Agarwal"
+format:
+  html:
+    embed-resources: true
 echo: false
 fig-height: 3.5
 fig-width: 6
